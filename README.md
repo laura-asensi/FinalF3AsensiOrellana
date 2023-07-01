@@ -92,3 +92,8 @@ Se aceptará la entrega mediante la submisión de la URL de su repositorio clona
 El link al Google Form para la submisión será enviado por el profesor a cargo de la comisión.
 
 Mucha suerte y éxitos!
+
+
+### Sobre el Final
+
+Lo hicimos Magali Orellana Y Laura Asensi, recursantes de la camada 5. Preferimos trabajar en conjunto y realizar todos los commits de este lado para tener menos errores
